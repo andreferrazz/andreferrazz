@@ -1,41 +1,15 @@
-# Hello, I'm André Rodrigues Ferraz 👋
+## Hello, I'm André Ferraz 👋
 
-## About Me
-I am a passionate software developer with a strong focus on Java and Spring, working in the field since 2018. I have a robust background in Full Stack development and a continuous passion for learning new technologies.
+**Chess Game will start soon.** 
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/rook.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/knight.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/bishop.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/king.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/queen.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/bishop.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/knight.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/rook.png) |
+| 7 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png) |
+| 6 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) |
+| 5 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) |
+| 4 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) |
+| 3 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png) |
+| 2 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png) |
+| 8 | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/rook.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/knight.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/bishop.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/king.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/queen.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/bishop.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/knight.png) | ![](https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/rook.png) |
 
-🌍 **Location**: Belo Horizonte, MG, Brazil
-
-🔭 **Currently Working On**: Innovative projects using Java, Spring, Angular, and AWS.
-
-🌱 **Currently Learning**: Deepening my knowledge in Elixir and exploring Cloud Computing technologies.
-
-👯 **Looking to Collaborate**: Interested in contributing to open-source projects and collaborating with other developers.
-
-💬 **Ask Me About**: Java, Spring, Angular, AWS, and best practices in software development.
-
-📫 **How to Reach Me**: [oandreferraz@gmail.com](mailto:oandreferraz@gmail.com)
-
-## Skills
-- **Programming Languages**: Java, JavaScript (including TypeScript)
-- **Frameworks and Libraries**: Spring, Angular, Node.js, Elixir/Phoenix, SvelteKit
-- **Databases**: Experienced with SQL and NoSQL databases
-- **Infrastructure**: AWS (EC2, SQS, S3, etc.), Docker, Kubernetes
-- **Tools and Practices**: Git, CI/CD, TDD, Agile Methodologies (Scrum)
-
-## Featured Projects
-[Here, you can list some of your most significant projects, with links to the repositories.]
-
-## Contributions
-[Section to highlight your contributions to open-source projects or development communities.]
-
-## Education
-- **Technical Degree in Systems Development**, Colégio Técnico da UFMG - Belo Horizonte/MG - Brazil
-
-## Find Me Elsewhere
-- **LinkedIn**: [linkedin.com/in/andre-rodrigues-ferraz](https://www.linkedin.com/in/andre-rodrigues-ferraz)
-- **Personal Website**: [andreferraz.com](https://andreferraz.com)
-- **GitHub**: [github.com/andreferrazz](https://github.com/andreferrazz)
-
----
-
-💼 **Seeking Job Opportunities**: I am open to new opportunities and challenges in the field of software development. Feel free to reach out to me!
+#### **WHITE TO MOVE**
