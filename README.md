@@ -1,8 +1,6 @@
-Hi 👋 My name is André Ferraz
-=============================
+# Hi 👋 My name is André Ferraz
 
-Software Engineer
------------------
+##  Software Engineer
 
 I've been coding for 5 years.
 
@@ -10,7 +8,7 @@ I've been coding for 5 years.
 * 🖥️  See my portfolio at [andreferraz.com](http://andreferraz.com)
 * ✉️  You can contact me at [oandreferraz@gmail.com](mailto:oandreferraz@gmail.com)
 * 🧠  I'm learning Go and SvelteKit
-* ⚡  I suck at chess, but I love it
+* ⚡  My rating is 1200 on <a href="https://www.chess.com/member/Andre_Ferraz">chess.com</a> (It's not much, I know)
 
 [![](https://img.shields.io/github/followers/andreferrazz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/andreferrazz)
 
