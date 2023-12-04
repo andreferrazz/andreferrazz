@@ -1,107 +1,89 @@
-# Hello, I'm André Ferraz 👋
+Hi 👋 My name is André Ferraz
+=============================
 
-### Chess Game will start soon 
-<table cellspacing="0">
-    <div style="position: relative;">
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 0px; left: 4px;">8</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 70px; left: 4px;">7</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 140px; left: 4px;">6</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 210px; left: 4px;">5</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 280px; left: 4px;">4</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 350px; left: 4px;">3</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 420px; left: 4px;">2</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 490px; left: 4px;">1</span>
-    </div>
-    <div style="position: relative;">
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 55px;">A</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 125px;">B</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 195px;">C</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 265px;">D</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 335px;">E</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 405px;">F</span>
-        <span style="z-index: 1; color: #a3ffff; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 475px;">G</span>
-        <span style="z-index: 1; color: #097d67; font-size: 12px; font-weight: bold; position: absolute; top: 542px; left: 545px;">H</span>
-    </div>
-    <tbody>
-        <tr style="background-color: #a3ffff;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/rook.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/knight.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/bishop.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/queen.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/king.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/bishop.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/knight.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/rook.png"/></td>
-        </tr>
-        <tr style="background-color: #119b83;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/black/pawn.png"/></td>
-        </tr>
-        <tr style="background-color: #a3ffff;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-        </tr>
-        <tr style="background-color: #119b83;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-        </tr>
-        <tr style="background-color: #a3ffff;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-        </tr>
-        <tr style="background-color: #119b83;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/blank.png"/></td>
-        </tr>
-        <tr style="background-color: #a3ffff;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #119b83;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/pawn.png"/></td>
-        </tr>
-        <tr style="background-color: #119b83;">
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/rook.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/knight.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/bishop.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/queen.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/king.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/bishop.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/knight.png"/></td>
-            <td style="height: 68px; width: 68px; text-align: center; background-color: #a3ffff;"><img src="https://raw.githubusercontent.com/andreferrazz/andreferrazz/master/chess_images/white/rook.png"/></td>
-        </tr>
-    </tbody>
-</table>
+Software Engineer
+-----------------
+
+I've been coding for 5 years.
+
+* 🌍  I'm based in Belo Horizonte 🇧🇷
+* 🖥️  See my portfolio at [andreferraz.com](http://andreferraz.com)
+* ✉️  You can contact me at [oandreferraz@gmail.com](mailto:oandreferraz@gmail.com)
+* 🧠  I'm learning Go and SvelteKit
+* ⚡  I suck at chess, but I love it
+
+[![](https://img.shields.io/github/followers/andreferrazz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/andreferrazz)
+
+### Skills
+
+<a href="https://www.oracle.com/java">
+    <img width="40px" height="auto" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</a>     
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img width="40px" height="auto" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img width="40px" height="auto" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+</a>
+<a href="https://go.dev/doc/">
+    <img width="40px" height="auto" alt="Go" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" />
+</a>
+<a href="https://git-scm.com/">
+    <img width="40px" height="auto" alt="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img width="40px" height="auto" alt="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css">
+    <img width="40px" height="auto" alt="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" />
+</a>
+<a href="https://angular.io/">
+    <img width="40px" height="auto" alt="Angular" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" />
+</a>
+<a href="https://svelte.dev/">
+    <img width="40px" height="auto" alt="Svelte" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" />
+</a>
+<a href="https://nodejs.org/en/">
+    <img width="40px" height="auto" alt="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+</a>
+<a href="https://www.postgresql.org/">
+    <img width="40px" height="auto" alt="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" />
+</a>
+<a href="https://www.mysql.com/">
+    <img width="40px" height="auto" alt="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+</a>
+<a href="https://supabase.io/">
+    <img width="40px" height="auto" alt="Supabase" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" />
+</a>
+<a href="https://aws.amazon.com">
+    <img width="40px" height="auto" alt="Amazon Web Services" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" />
+</a>
+<a href="https://www.docker.com/">
+    <img width="40px" height="auto" alt="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" />
+</a>
+<a href="https://www.linux.org">
+    <img width="40px" height="auto" alt="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />
+</a>
+
+### Socials
+
+<a href="https://www.github.com/andreferrazz">
+    <img width="40px" height="auto" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
+<a href="https://oandreferraz.hashnode.dev">
+    <img width="40px" height="auto" alt="Hashnode" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+</a>
+<a href="https://www.linkedin.com/in/andre-rodrigues-ferraz">
+    <img width="40px" height="auto" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.x.com/oandreferraz">
+    <img width="40px" height="auto" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+
+### Stats
+
+<a href="http://www.github.com/andreferrazz"><img src="https://github-readme-stats.vercel.app/api?username=andreferrazz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="andreferrazz's GitHub stats" /></a>
+
+<a href="http://www.github.com/andreferrazz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andreferrazz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/andreferrazz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreferrazz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
